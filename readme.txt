@@ -3,4 +3,8 @@ Git is free software.
 add pp 
 add xx
 add haha
-add git and github
+<<<<<<< HEAD
+add git & github
+=======
+add git & github
+>>>>>>> feature1
