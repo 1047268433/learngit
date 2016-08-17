@@ -8,3 +8,4 @@ add git & github
 =======
 add git & github
 >>>>>>> feature1
+merge
